@@ -1,4 +1,4 @@
-## ALL Tasks - done
+## ALL numpy Tasks - done
 
 ## numpytask includes- some basic numpy task solved
 # and some very fun solved tasks like edge detection and conway's game of life
