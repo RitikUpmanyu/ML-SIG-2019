@@ -1,13 +1,7 @@
--   **DEADLINE:** 5<sup>th</sup> June 2019
+## ALL Tasks - done
 
-
-# Learn Python and Setup Github
-
--   **DEADLINE:** **27<sup>th</sup> May 2019 (Monday)**
-
-Learn the basics of basics of Python from the playlist that is linked. If you
-haven't already, setup a github account and learn the basics of git.
-
+## numpytask includes- some basic numpy task solved
+# and some very fun solved tasks like edge detection and conway's game of life
 
 ## Python
 
@@ -29,16 +23,8 @@ haven't already, setup a github account and learn the basics of git.
 
 # Numpy and other Libraries
 
--   **DEADLINE:** **5<sup>th</sup> June 2019 (Wednesday)**
-
 -   [Numpy Quickstart guide](https://docs.scipy.org/doc/numpy/user/quickstart.html)
 -   [CS231N Tutorials](http://cs231n.github.io/python-numpy-tutorial/)
 
 
-# First Task
 
--   **DEADLINE:** **5<sup>th</sup> June 2019 (Wednesday)**
-
-
-## Clone [this](https://github.com/MananSoni42/ML-SIG-2019) repository
-## Solve [this](https://github.com/MananSoni42/ML-SIG-2019/blob/master/numpy_tasks/numpy_tasks.ipynb) notebook
